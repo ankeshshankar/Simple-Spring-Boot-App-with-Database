@@ -1,6 +1,7 @@
 # Simple-Spring-Boot-App-with-Database
 
 CRM (Spring Boot App)
+  - Java Programming language is used
   - Database is Mysql ,you can use any other database 
   - JPA anotations are use to get connected to database,
   - Tables are created automatic when we run this as Spring Book App.
