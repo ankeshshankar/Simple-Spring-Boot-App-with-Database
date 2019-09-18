@@ -1,0 +1,76 @@
+/*  Importing all custom fonts here */
+
+/*  Montserrat  */
+/* @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+.table-header {
+    font-family: 'Montserrat', sans-serif;
+    text-align: start;
+    margin-left: 0%;
+    font-weight: bold;
+    font-size: 10em;
+    padding-bottom: 15%;
+}
+
+.table-row {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    font-weight: normal;
+}
+
+.table-data {
+    padding-left: 20%;
+    text-transform: uppercase;
+}
+
+.text-input {
+    margin-left: 10%;
+    border: none;
+    border-bottom: solid 1px grey;
+    outline: none;
+    width: 65%;
+    font-weight: normal;
+    font-size: inherit; 
+}
+
+.text-input:focus {
+    border-bottom: solid 1.5px black;
+}
+
+.input-button {
+    font-size: 0.7em;
+    font-weight: bold;
+    margin: 0%;
+    padding: 0%;
+    border: 1px outset black;
+    background-color: black;
+    color:white;
+    height:50px;
+    width:100px;
+    cursor:pointer;
+}
+
+.input-button:hover {
+    background-color:white;
+    color:black;
+ } */
+ html, body {height:100%;}
+ html {display:table; width:100%;}
+ body {display:table-cell; text-align:center; vertical-align:middle;}
+
+ .masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../images/img-index-7.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+#mmenu_screen > .row {
+    min-height: 100vh;
+}
+/* 
+.flex-fill {
+    flex:1 1 auto;
+} */
